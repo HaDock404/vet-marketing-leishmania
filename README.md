@@ -8,7 +8,7 @@ Here is the communication I produced to help a (friend) veterinary clinic promot
 
 Leishmaniasis is a serious and potentially fatal disease affecting dogs, caused by the Leishmania parasite and transmitted through the bite of infected sandflies. It can lead to severe skin lesions, weight loss, anemia, and organ damage, particularly affecting the kidneys. The disease is prevalent in warm and humid regions, such as Southern Europe, South America, and parts of Asia and Africa. Since there is no complete cure, prevention is essential. Vaccination, combined with insect repellents and limiting outdoor exposure during peak sandfly activity, significantly reduces the risk of infection. Protect your dog with vaccination and prevent unnecessary suffering!  
 
-![Example](./documentation/image1.png)  
+![Example](./documentation/Image1.png)  
 
 ## Table of Contents
 
